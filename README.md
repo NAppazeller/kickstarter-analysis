@@ -28,6 +28,7 @@ There was a minor issue of scope creep as Louise also requested analysis on a ha
 
 Line charts are helpful when trying to determine trends. We can see by looking at our new chart that the months of May and June both have a greater success rate.
 
+![](https://github.com/NAppazeller/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 
 ### Analysis of Outcomes Based on Goals
