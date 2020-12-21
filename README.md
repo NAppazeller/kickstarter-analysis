@@ -1,5 +1,5 @@
 # An Analysis of Kickstarter Campaigns
-perform analysis on Kickstarter data to uncover trends
+Perform analysis on Kickstarter data to uncover trends
 
 
 ## Overview of Project
@@ -17,7 +17,7 @@ Determine viability of crowdfunding campaign for the play, Fever, with the overa
 
 The information provided covers a period of nine years with data relating to 4,100+ campaigns that spans 13 different countries. Additionally, there are nine campaign categories which can be further broken down into 40+ subcategories.
 
-Given the vastness of the data it was important to isolate only that which was applicable to the requested analysis. There was the additional step(s) of scrubbing the data to ensure certain data are presented in a consumable format (i.e. dates, etc.), debugging, and manipulation of said data for production of visuals that communicated the data story. By focusing on outcomes by launch data and goals we were able to visually display our findings in the form of line charts.
+Given the vastness of the data it was important to isolate only that which was applicable to the requested analysis. There were additional steps taken such as scrubbing the data to ensure certain data are presented in a consumable format (i.e. dates, etc.), debugging, and manipulation of said data for production of visuals that communicated the data story. By focusing on outcomes by launch data and goals we were able to visually display our findings in the form of line charts.
 
 
 
@@ -31,7 +31,7 @@ By looking at the line chart based on outcomes related to launch date the data s
 
 ### Analysis of Outcomes Based on Goals
 
-By looking at the line chart based on outcomes related to campaign goals the data shows a success rate slightly over 50%.
+By looking at the line chart based on outcomes related to campaign goals the data shows a success rate slightly greater than 50% in the $10k-$14.9K range.
 
 ![](https://github.com/NAppazeller/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
@@ -50,7 +50,7 @@ Based on our analysis of outcomes by launch date we're confident recommending th
 
 - What can you conclude about the Outcomes based on Goals?
 
-Based on our analysis of outcomes by goals the margin for success narrows, but still shows promise for success. Given the campaign goal of $10-12K there is an approximate success rate of 54%.
+Based on our analysis of outcomes by goals the margin for success narrows, but still shows promise. Given the campaign goal of $10-12K there is an approximate success rate of 54%.
 
 
 - What are some limitations of this dataset?
@@ -60,4 +60,4 @@ Some limitations that may be impactful to this data set, and the launch of a suc
 
 - What are some other possible tables and/or graphs that we could create?
 
-A deeper dive into outcomes by goals related to the subcategory "plays" as well as the tightening the goals analysis ranges could produce more meaningful results. It may also prove helpful to look at outcomes based on launch date for the subcategory "plays" rather than the main category of theater. Determining contribution amounts based on the minimum number of contributors may be beneficial in determining incentives for campaign sponsors.
+A deeper dive into outcomes by goals related to the subcategory "plays" as well as the tightening the goals analysis ranges to mirror the campaign's goal range could produce more meaningful results. It may also prove helpful to look at outcomes based on launch date for the subcategory "plays" rather than the main category of theater. Determining contribution amounts based on the minimum number of contributors may be beneficial in determining incentives for campaign sponsors.
