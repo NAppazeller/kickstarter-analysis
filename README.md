@@ -34,7 +34,7 @@ Line charts are helpful when trying to determine trends. We can see by looking a
 ### Analysis of Outcomes Based on Goals
 
 
-
+![](https://github.com/NAppazeller/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 
 ### Challenges and Difficulties Encountered
